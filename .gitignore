@@ -4,6 +4,7 @@ dataset_extracted.zip
 
 # 困難度解析結果
 difficult_images_annotated/
+difficulty_analysis.csv
 
 # 仮想環境
 venv/
