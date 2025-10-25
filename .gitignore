@@ -1,0 +1,15 @@
+# 使用するデータセット
+dataset_extracted/
+dataset_extracted.zip
+
+# 困難度解析結果
+difficult_images_annotated/
+
+# 仮想環境
+venv/
+
+# YOLOモデル重みファイル
+yolo12l.pt
+
+# 学習結果ディレクトリ
+runs/
